@@ -1,14 +1,3 @@
----
-title: "Web Extracting of Emotions"
-output:
-  pdf_document: default
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 This program uses Google Youtube API to retrieve information about videos, and their comments, in order to offer various ways to explore Youtube.
 In doing so, you will be able to get videos based on criteria which can be with either some prior knowledge or in a random fashion. For example, it is possible to start from list of terms that will be used to search for videos.
 You can also supply a list of videos that will be used as a batch to further explore related videos.
