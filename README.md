@@ -1,5 +1,5 @@
 This program uses Google Youtube API to retrieve information about videos, and their comments, in order to offer various ways to explore Youtube.
-In doing so, you will be able to get videos based on criteria which can be with either some prior knowledge or in a random fashion. For example, it is possible to start from list of terms that will be used to search for videos.
+In doing so, you will be able to get videos based on criteria which can be based on prior knowledge or in a random fashion. For example, it is possible to start from list of terms that will be used to search for videos.
 You can also supply a list of videos that will be used as a batch to further explore related videos.
 Please refer to this documentation to obtain more details about our program's capability.
 The following sections gives insight into the program's implementaiton.
